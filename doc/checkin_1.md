@@ -1,6 +1,6 @@
 # How you’ve addressed prior feedback
 ### Is there one (or more) histone variants that you would target first?
-Yes, we will focus on H2AFY first.
+Yes, we will focus on H2AFY first. Then the overall histone variants.
 ### Provide IDs/links to specific PDMR and TCGA datasets
 We will only use TCGA datasets this time. The link: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/yhuan279_jh_edu/Egg3oIt1YdNEnxVyetSnKXQBkvdcYdGixwxKkPMXpUFPBA?e=5yaMEl
 The expression of each patients are merged together.
