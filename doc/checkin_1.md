@@ -7,7 +7,14 @@ The expression of each patients are merged together.
 ### Do you have a GSEA package in mind such as http://bioconductor.org/packages/fgsea or https://bioconductor.org/packages/clusterProfiler?
 
 # New progress since last submission 
-
+## Get the database
+and process the data
+## Test the H2AFY variant
+- analyse the expression level first
+- draw the survival rate of the variant
+## analysis of the expression level of all the histone variants
+- we extract all the histone variant in the dataset first.
+- analyse the expression level of all of our histone variants
 # Project Organization
 
 # Struggles you are encountering and questions you would like advice on
